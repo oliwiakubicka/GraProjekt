@@ -1,3 +1,11 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1789919952
-icon.svg::CompressedTexture2D::5335206702518586373::1789919947::1789919952::1::::<><><>0<>0<>155376fa9b9e0f887dd28f7c19e9507e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1790002987
+icon.svg::CompressedTexture2D::5335206702518586373::1789999253::1790002987::1::::<><><>0<>0<>155376fa9b9e0f887dd28f7c19e9507e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.tscn::PackedScene::3169877819840901150::1790000923::0::1::::<><><>0<>0<><>::
+::res://addons/::1789999585
+::res://addons/godot-git-plugin/::1789999586
+git_plugin.gdextension::GDExtension::4497869787158597853::1789999585::0::1::::<><><>0<>0<><>::
+THIRDPARTY.md::TextFile::-1::1789999586::0::1::::<><><>0<>0<><>::
+::res://addons/godot-git-plugin/linux/::1789999586
+::res://addons/godot-git-plugin/macos/::1789999586
+::res://addons/godot-git-plugin/windows/::1790002984
