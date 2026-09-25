@@ -1,6 +1,6 @@
-# Temporary game name xd
+# Jeffrey's Capture
 
-> A 2D point and click detective game.
+> A 2D Point & Click Detective game.
 
 ## Game engine used
 
