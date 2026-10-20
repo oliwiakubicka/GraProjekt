@@ -1,6 +1,6 @@
-# Jeffrey's Capture
+# Revenant
 
-> A 2D Point & Click Detective game.
+> A 3D Hack 'n' Slash BioPunk themed game.
 
 ## Game engine used
 
