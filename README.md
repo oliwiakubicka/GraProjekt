@@ -1,6 +1,6 @@
-# Temporary game name xd
+# Revenant
 
-> A 2D point and click detective game.
+> A 3D Hack 'n' Slash BioPunk themed game.
 
 ## Game engine used
 
